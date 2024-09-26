@@ -15,7 +15,7 @@
 
 ## Project Synopsis 
 
-## Dealines
+## Deadlines
 
 X = CPE holidays
 
