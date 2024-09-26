@@ -26,11 +26,11 @@ X = CPE holidays
 |Week 38|23/09||
 |Week 39|30/09||
 |Week 40|07/10|<ul><li> 09/10 : pre-study repport.</li><li>11/10 : Sequencer on the µC to drive the H bridge for the brushless Motor.Test would be done during the session</li></ul>|
-|Week 41|14/10|25/10 : 3 PCB + BOM version 1|
+|Week 41|14/10|25/10 : 3 PCB + BOM version 1 **à 12h**.|
 |Week 42|21/10||
 |Week 43|28/10|X|
 |Week 44|04/11|Jalon Conception Hard.|
-|Week 45|11/11|15/11 : 25/10 : 3 PCB + BOM version finale.|
+|Week 45|11/11|15/11 : 3 PCB + BOM version finale **à 12h**.|
 |Week 46|18/11||
 |Week 47|25/11||
 |Week 48|02/12||
