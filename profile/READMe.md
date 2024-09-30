@@ -6,11 +6,11 @@
   
 |Membre|Current Task|
 |-|-|
-|Augustin LAPRAIS|X|
-|Audrey NICOLLE|X|
-|Yuxin MU|X|
-|Julien PEROL|X|
-|Corentin PICHAT|X|
+|Augustin LAPRAIS|Presentation of the project - Study report|
+|Audrey NICOLLE|Hardware|
+|Yuxin MU|Introduction et team presentation - Study report|
+|Julien PEROL|Software|
+|Corentin PICHAT|Liste de matérielle et recherche de composants - Study Report|
 </div>
 
 ## Project Synopsis 
